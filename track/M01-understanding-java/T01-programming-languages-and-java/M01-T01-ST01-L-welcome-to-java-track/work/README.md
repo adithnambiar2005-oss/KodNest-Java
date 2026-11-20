@@ -2,26 +2,25 @@
 
 ## My Name
 
-Write your name.
+Adith R Nambiar
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+i learned to push the programs into github.
 
 ## Why I Selected Java
 
-Write your reason in your own words.
+because i found it suited to me than python.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+build app than everyone uses.
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: understaning the ligic andusing the syntax to complete it
 
-Java is:
-
+Java is:a
 In this track, I will learn:
