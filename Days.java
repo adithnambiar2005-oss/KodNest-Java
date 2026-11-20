@@ -1,7 +1,7 @@
 public class Days {
     public static void main(String[] args) {
-        System.out.println("monday");
-        System.out.print("tuesday");
+        System.out.println("Student Name: Rahul");
+        System.out.println("tuesday");
         System.out.println("wednesday");
         System.out.println("thursday");
         System.out.print("friday");
